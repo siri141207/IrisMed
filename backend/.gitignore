@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+irismed.db
+uploads/*
+.env
